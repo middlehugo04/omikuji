@@ -1,0 +1,10 @@
+img {
+  height: 100px;
+}
+#name {
+    color: rgba(0, 0, 255, 0.66);
+  }
+  
+  #result {
+    color: green;
+  }
